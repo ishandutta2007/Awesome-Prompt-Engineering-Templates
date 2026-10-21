@@ -1,6 +1,6 @@
 # Awesome-Prompt-Engineering-Templates
 
-# Top Prompt Engineering & Templates Ecosystem
+## Top Prompt Engineering & Templates Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Community Prompt Libraries, Self-Hosted Registries & Structured Template Frameworks*  
